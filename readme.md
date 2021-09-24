@@ -1,6 +1,5 @@
 ### app-angular-base
 
-**Recordar adjuntar uno de los bloques con estilo para complementar este bloque.**
 
 Este bloque contiene la estructura necesaria para construir un proyecto en angular siguiendo la guia de estilos de angular.
 
